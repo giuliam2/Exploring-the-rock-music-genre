@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>The History of the Guitar</title>
+  <title>Rock Music: Beyond Gender Boundaries and Across Time and Regions</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   
@@ -145,7 +145,7 @@ footer {
 
 
   <div class="title-box">
-    <h1>The History of the Guitar</h1>
+    <h1>Rock Music: Beyond Gender Boundaries and Across Time and Regions</h1>
   </div>
 
   <h2><em>A story written by Giulia Montesanto and Agnese Musacchio</em></h2>
