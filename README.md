@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Rock Music: Beyond Gender Boundaries and Across Time and Regions</title>
