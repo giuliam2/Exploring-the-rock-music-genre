@@ -6,16 +6,11 @@
 <style>
   
   a {
-        color: none;
+        color: #fff;
         text-decoration: none;
     }
   
- h1 {
-      color: #FFF;
-      font-family: 'Playfair Display', serif;
-      font-size: 36px;
-      margin: 0;
-    }
+
   
 body {
   margin: 0;
@@ -184,7 +179,7 @@ What are you waiting for? Start your journey by clicking the link at the bottom 
     </div>
   </div>
 <br>
-  <a href="https://projects.dharc.unibo.it/melody/1685710021.158254/the_history_of_the_guitar">Click here to see our story on Melody!</a>
+  <a href="https://projects.dharc.unibo.it/melody/1685710021.158254/the_history_of_the_guitar"><span style="color:black">Click here to see our story on Melody!</span></a>
   
 <br>
 <br>
