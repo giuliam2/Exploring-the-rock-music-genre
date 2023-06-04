@@ -148,15 +148,15 @@ footer {
     <h1>The History of the Guitar</h1>
   </div>
 
-  <h2><em>A story written by Sofia Mangione and Simona Serramondi</em></h2>
+  <h2><em>A story written by Giulia Montesanto and Agnese Musacchio</em></h2>
   <p class="small-italic">Hello guys! With this little overview you will have the opportunity to discover the history behind the stringed instruments we play on a daily basis, with a particular attention to the instrument who changed the whole world of music: the guitar. Let yourself be carried away by the inebriating sounds of this instrument and begin this journey of music with us!</p>
 
 
   <div class="article">
     <div class="article-text">
-      <p>The sounds that music offers us are varied: they range from a slight emission of breath to a more or less loud beat. Yet, in the common imagination what most refers to the idea of music is a touch of strings that in its multiple forms gives birth to many different genres of music. It is precisely from that graceful touch that for many people the principle of music, its essence, begins. However, what produces those melodious guitar sounds? Thanks to the table presented on Melody, you can see yourselves how the individual components of the guitar come together to create a magic of sounds.
-For those who are more passionate and interested in approaching this world, we offer you the possibility of finding out for yourselves what kind of material the models you are most interested in are made of.
-The guitar over the years has become increasingly influential, even to the point of having a major impact on world markets. Here, then, the charts show which guitars have been most sold over a period of time from the 1990s, the prominent years of rock music, to our days. </p>
+      <p>Whether it's the driving rhythms, blazing guitar solos, and electrifying performances, rock music has the ability to evoke the most intense emotions. This genre has fascinated and inspired countless people across time and regions, transcending boundaries and capturing the hearts of fans around the world and if you’re reading this, you’re probably one of them. Today, we embark on an incredible exploration of the changing face of rock music, delving into its evolution and uncovering some hidden gems along the way.<br>
+Picture this: the 1950s, a time when rock music burst onto the scene and quickly took the world by storm. Soon enough it became the unrivaled king of popular music, leaving a lasting impact that would shape the future of the industry. From Led Zeppelin’s electrifying performances to Jimi Hendrix’s infectious guitar riffs, rock music was an unstoppable force of creativity and rebellion.
+</p>
     </div>
     <div class="article-image">
       <img src="https://media.istockphoto.com/id/629212494/photo/electric-guitar-production-shop-start-up.jpg?s=612x612&w=0&k=20&c=ucNtvS4BRc4xcDohHdenPLKyduEpTgAXWHX4CoXathA=" alt="Article Image">
@@ -164,10 +164,12 @@ The guitar over the years has become increasingly influential, even to the point
   </div>
 
   <div class="white-box">
-    <p style="font-family: 'Times New Roman', serif;" >Have you ever wondered, however, what made people buy this instrument more and more? We did. Throughout the history of music, audiences have been influenced by influential guitarists such as Jimi Hendrix and Bob Dylan, whose energy and passion were able to engage and attract their audiences. So, people, whether for amateur or professional use, began to purchase this instrument.
-American influence did not take long to spread around the world, and so today even countries far away enjoy the footsteps left by those who really knew how to appreciate this instrument. In the map provided on Melody, you are shown the countries with their own number of guitarists.
-Through this project you will be able to see how the guitar from a simple wooden object becomes everyday music for our ears capable of reaching the whole world with its sound. 
-What are you waiting for? Start your journey by clicking the link at the bottom of the page.</p>
+    <p style="font-family: 'Times New Roman', serif;" >But let's zoom in on the USA, the birthplace of many influential rock bands. One name that instantly comes to mind is Nirvana. Led by the legendary Kurt Cobain, this band became a symbol of the rock music genre. Cobain, not content with just being a mesmerizing vocalist, also wielded his guitar with finesse. And he wasn't alone. Many members of Nirvana, as well as other rock bands, showcased their incredible versatility by playing multiple roles. But who else is connected to Cobain and plays guitar, besides singing? His wife Courtney Love, singer and guitarist of American rock band Hole. What’s interesting about this band? Well, the first thing that immediately catches one's attention is undoubtedly the fact that Hole is an all-female band, something unusual in the landscape of the rock genre. Numbers speak for themselves: out of 16 bands, only one is entirely made up of women! <br>
+As rock music evolved, it embarked on a fascinating journey of diversification. Sub-genres emerged, each with its own unique sound and influences, while still retaining the essence of rock. Between the 1980s and 1995, the music scene witnessed an explosion of new genres that showcased the boundless creativity and adaptability of rock music. It was a time of experimentation and innovation, where artists fearlessly blended different styles to create something entirely new. However, as we entered the 2000s, the trend started to decline, signaling a shift in the industry. But fear not, the spirit of rebelliousness and passion still remains within the hearts of many rock musicians who keep pushing the boundaries and reinventing the genre.<br>
+Now, let's take a step outside the United States and explore the global reach of rock music. Its popularity is widespread, captivating audiences far and wide. However, the level of its influence may vary across different nations. By delving into the music scenes of specific countries, we can see how rock music has been embraced and molded by different cultures. Each nation brings its own unique flavor to the genre, resulting in a rich tapestry of sounds. Why not discover those bands though our search engine? <Click here to reach out MELODY story: search yourself for the country you are interested in and discover your new favourite bands!<br>
+This the ever-evolving core of rock music, and it is waiting for you to discover it!
+</p><br><br>
+<p>Read the <a href="#">report</a></p> on our adventure here. </p>
   </div>
 
   <div class="section">
