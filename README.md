@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   
+  a {
+        color: none;
+        text-decoration: none;
+    }
+  
  h1 {
       color: #FFF;
       font-family: 'Playfair Display', serif;
