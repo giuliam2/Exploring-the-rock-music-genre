@@ -175,9 +175,9 @@ This the ever-evolving core of rock music, and it is waiting for you to discover
   <div class="section">
     <div class="section-image">
     <a href="https://melody-data.github.io/stories/published_stories/story_1685638796.117557.html">
-       <img src="screen infuential.jpg" alt="Image 1" width="400" height="240"/>
+       <img src="graph.jpg" alt="Image 1" width="400" height="240"/>
   
-      <img src="Screen mappa.jpg" alt="Image 2" width="400" height="240"/> </a>
+      <img src="graph-1.jpg" alt="Image 2" width="400" height="240"/> </a>
     </div>
   </div>
 <br>
