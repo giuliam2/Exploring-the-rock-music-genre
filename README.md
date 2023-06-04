@@ -167,7 +167,7 @@ But let's zoom in on the USA, the birthplace of many influential rock bands. One
   <div class="white-box">
     <p style="font-family: 'Times New Roman', serif;" >
 As rock music evolved, it embarked on a fascinating journey of diversification. Sub-genres emerged, each with its own unique sound and influences, while still retaining the essence of rock. Between the 1980s and 1995, the music scene witnessed an explosion of new genres that showcased the boundless creativity and adaptability of rock music. It was a time of experimentation and innovation, where artists fearlessly blended different styles to create something entirely new. However, as we entered the 2000s, the trend started to decline, signaling a shift in the industry. But fear not, the spirit of rebelliousness and passion still remains within the hearts of many rock musicians who keep pushing the boundaries and reinventing the genre.<br>
-Now, let's take a step outside the United States and explore the global reach of rock music. Its popularity is widespread, captivating audiences far and wide. However, the level of its influence may vary across different nations. By delving into the music scenes of specific countries, we can see how rock music has been embraced and molded by different cultures. Each nation brings its own unique flavor to the genre, resulting in a rich tapestry of sounds. Why not discover those bands though our search engine?  <a href="https://melody-data.github.io/stories/published_stories/story_1685638796.117557.html"><span style="color:black"><b>Click here</b></span></a> to reach out MELODY story: search yourself for the country you are interested in and discover your new favourite bands!<br>
+Now, let's take a step outside the United States and explore the global reach of rock music. Its popularity is widespread, captivating audiences far and wide. However, the level of its influence may vary across different nations. By delving into the music scenes of specific countries, we can see how rock music has been embraced and molded by different cultures. Each nation brings its own unique flavor to the genre, resulting in a rich tapestry of sounds. Why not discover those bands though our search engine?  <a href="https://melody-data.github.io/stories/published_stories/story_1685638796.117557.html"><span style="color:black"><b>Click here</b></span></a> to reach our MELODY story: search yourself for the country you are interested in and discover your new favourite bands!<br>
 This the ever-evolving core of rock music, and it is waiting for you to discover it! </p>
 <br><br>
   </div>
@@ -182,7 +182,7 @@ This the ever-evolving core of rock music, and it is waiting for you to discover
   </div>
 <br>
   <a href="https://melody-data.github.io/stories/published_stories/story_1685638796.117557.html"><span style="color:black"><b>Click here to see our story on Melody!</b></span></a>
-  
+<br>  
 <br>
 <br>
 <footer>
