@@ -4,6 +4,11 @@
   <title>The History of the Guitar</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+  
+  a {
+      color: black; 
+      text-decoration: none; 
+    }
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -116,14 +121,6 @@ body {
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
-<style>
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
-}
-</stye>
-
 footer {
   background-color: #990a00;
   padding: 10px;
@@ -136,10 +133,10 @@ footer {
 <body>
 
 <div class="topnav">
-  <a href="https://giuliam2.github.io/">Home</a>
+  <a href="https://giuliam2.github.io/6-Girls-on-a-stage-home/">Home</a>
   <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/">Theater</a>
-  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
-  <a class="active" href="https://bella2402.github.io/The-History-of-the-Guitar/">Guitars</a>
+  <a class="active" href="https://giuliam2.github.io/Exploring-the-rock-music-genre/">Rock Music</a>
+  <a href="https://bella2402.github.io/The-History-of-the-Guitar/">Guitars</a>
   <a href="https://giuliam2.github.io/Reports/">Our Reports</a>
 </div>
 
