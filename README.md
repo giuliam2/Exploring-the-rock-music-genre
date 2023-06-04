@@ -148,7 +148,8 @@ footer {
     <h1>The History of the Guitar</h1>
   </div>
 
-  <h2><em>Whether it's the driving rhythms, blazing guitar solos, and electrifying performances, rock music has the ability to evoke the most intense emotions. This genre has fascinated and inspired countless people across time and regions, transcending boundaries and capturing the hearts of fans around the world and if you’re reading this, you’re probably one of them. Today, we embark on an incredible exploration of the changing face of rock music, delving into its evolution and uncovering some hidden gems along the way.</p>
+  <h2><em>A story written by Giulia Montesanto and Agnese Musacchio</em></h2>
+  <p class="small-italic">Whether it's the driving rhythms, blazing guitar solos, and electrifying performances, rock music has the ability to evoke the most intense emotions. This genre has fascinated and inspired countless people across time and regions, transcending boundaries and capturing the hearts of fans around the world and if you’re reading this, you’re probably one of them. Today, we embark on an incredible exploration of the changing face of rock music, delving into its evolution and uncovering some hidden gems along the way.</p>
 
 
   <div class="article">
