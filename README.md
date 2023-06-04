@@ -5,10 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   
-  a {
-      color: black; 
-      text-decoration: none; 
+ h1 {
+      color: #FFF;
+      font-family: 'Playfair Display', serif;
+      font-size: 36px;
+      margin: 0;
     }
+  
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -21,7 +24,7 @@ body {
 
 .topnav a {
   float: left;
-  color: #;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
