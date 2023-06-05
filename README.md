@@ -179,9 +179,7 @@ This the ever-evolving core of rock music, and it is waiting for you to discover
       <img src="graph-1.jpg" alt="Image 2" width="400" height="240"/> </a>
     </div>
   </div>
-<br>
-  <a href="https://melody-data.github.io/stories/published_stories/story_1685638796.117557.html"><span style="color:black"><b>Click here to see our story on Melody!</b></span></a>
-<br>  
+
 <br>
 <br>
 <footer>
