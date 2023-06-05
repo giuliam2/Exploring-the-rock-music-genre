@@ -181,7 +181,7 @@ This the ever-evolving core of rock music, and it is waiting for you to discover
   </div>
 
 <br>
-<br>
+
 <footer>
   <p>All rights reserved to the 6girlsonstage's project.</p>
 </footer>
